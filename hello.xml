@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 <customer>
 	<name>Rakhi</name>
 	<age>25</age>
 	<id>t007</id>
 </customer>
+=======
+<product>
+	<name>Laptop</name>
+	<price>45000</price>
+</product>
+>>>>>>> br017
